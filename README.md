@@ -1,0 +1,2 @@
+# MooreFSM-Verilog
+MooreFSM
